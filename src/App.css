@@ -35,17 +35,17 @@ h1{
 
 input[type="text"]{
     height: 70px;
-    width: 15rem;
+    width: 17rem;
     background-color: rgb(7, 6, 6);
     border-radius: 20px;
     border: none;
     color: aliceblue;
     font-size: 30px;
+    border: 1px solid white;
 
 
 
 }
-
 button{
     border-radius: 25px;
     background-color: rgb(59, 57, 57);
